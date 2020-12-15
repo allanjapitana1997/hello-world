@@ -1,2 +1,2 @@
 # hello-world
-My first in Github
+Hi I am Allan Japitana Jr
